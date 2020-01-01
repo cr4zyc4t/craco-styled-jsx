@@ -1,6 +1,6 @@
 {
   "name": "craco-styled-jsx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "craco plugin for styled-jsx",
   "main": "index.js",
   "engines": {
